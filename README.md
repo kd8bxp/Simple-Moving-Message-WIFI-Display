@@ -15,6 +15,10 @@ Useage: Connect to your wifi, change your subscription topic (If wanted) change 
 Publish a short message to your topic onthe broker.  Limited to about 20 or 21  
 characters.  
 
+## Video
+
+https://youtu.be/03rTvXr3PBI  
+
 ## Contributing
 
 1. Fork it!
